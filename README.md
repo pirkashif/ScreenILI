@@ -50,6 +50,7 @@ High-level, ergonomic wrapper around an ILI9488 480×320 TFT driver with:
   - [Self Test](#self-test)
   - [Documentation](#documentation)
   - [Contributing](#contributing)
+  - [Credits](#credits)
   - [License](#license)
 
 ---
@@ -462,6 +463,12 @@ For full API reference and more examples (animations, UI widgets, font preparati
   * Documentation improvements
 
 Please keep code compatible with both MicroPython and CircuitPython where possible.
+
+---
+
+## Credits
+
+> See [CREDITS.md](./CREDITS.md) for third-party authors and attributions.
 
 ---
 
