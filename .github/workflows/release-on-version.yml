@@ -1,9 +1,12 @@
 name: Release on VERSION change
 
+permissions:
+  contents: write
+
 on:
   push:
     branches:
-      - main
+      - master
     paths:
       - VERSION
   workflow_dispatch:
